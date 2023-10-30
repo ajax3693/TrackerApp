@@ -14,7 +14,7 @@ Table of Contents
 
  **Description**
 
-Users are able to create and participate in to-do challenges. Each completed challenge earns the user points. 
+The ToDo List app allows users to easily organize their tasks and to-dos in a simple, user-friendly interface. Users can add, edit, and delete tasks, set reminders, and prioritize tasks to manage their time and productivity efficiently. Users are also able to create and participate in to-do challenges. Each completed challenge earns the user points.
 
  **App Evaluation**
  
