@@ -107,6 +107,7 @@ Optional Nice-to-have Stories
 ---
 (https://hackmd.io/_uploads/H18_lthzT.jpg)
 ![](https://hackmd.io/_uploads/S1h4ZKnza.jpg)
+![wireframes](https://github.com/ajax3693/TrackerApp/assets/122309981/f7b66525-bb4b-456a-8fb6-64e6759f5019)
 
 ---
 **Schema**
